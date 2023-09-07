@@ -21,7 +21,7 @@ O projeto é um **dashboard** composto por 5 abas presentes a seguir:
 ## Como acessar o projeto?
 
 Clicando no link abaixo, você irá o dashboard, que foi publicado na internet através do Power BI Online:
-* [Dashboard Microdados ENEM 2022](https://imgur.com/kgyem39)
+* [Dashboard Microdados ENEM 2022](https://app.powerbi.com/view?r=eyJrIjoiZGI4YmIzZjYtNzczZS00MTFhLTlmMDctYjVlYWZhZmE3MWIwIiwidCI6IjFhYTZkOTc1LWMyZDMtNGZjYy04MDZmLWNjNDg0MjQzY2FhNyJ9&pageName=ReportSection)
 
 ## Tecnologias utilizadas
 * [Power BI](https://powerbi.microsoft.com/pt-br/): aplicativo gratuito para business intelligence (BI);
