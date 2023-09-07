@@ -1,33 +1,31 @@
-# Teste Analista de Dados
-Critérios avaliadas:
-- Uso de Funções DAX
-- Documentação das medidas
-- ETL
-- Modelagem dimensional dos dados
+# 📊 | Microdados ENEM 2020
 
-### Desejáveis
-- Esquema Estrela
-- Criação de visuais com indicadores além dos requisitados.
-- SQL (Caso deseje modelar os dados em algum banco)
+## Índice
 
+- [Sobre o projeto](#sobre-o-projeto)
+- [Como acessar o projeto?](#como-acessar-o-projeto)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-### Steps:
+## Sobre o projeto
 
-1. Realizar um Fork desse projeto
-2. Realizar a modelagem dimensional da base (Pode ser dentro do próprio PowerBI ou outra ferramenta de ETL)
-    - A base está disponível para download [clicando aqui](https://download.inep.gov.br/microdados/microdados_enem_2020.zip).
-    - Após descompactar a paste, o Arquivo com a base encontra-se no diretório microdados_enem_2020/DADOS/MICRODADOS_ENEM_2020.csv
-    - A documentação necessária sobre os campos da base está disponível nos demais diretórios dentro da pasta descompactada.
-4. Disponibilizar o link do seu repositório para posterior avaliação
+Este projeto foi desenvolvido como parte do teste técnico para a posição de analista de dados na Mesha Technology, utilizando como base os Microdados do ENEM 2020.
 
+O projeto é um **dashboard** composto por 5 abas presentes a seguir:
 
-### Levantar Indicadores
-#### Responder às seguintes perguntas:
-1. Qual a escola com a maior média de notas?
-2. Qual o aluno com a maior média de notas e o valor dessa média?
-3. Qual a média geral?
-4. Qual o % de Ausentes?
-5. Qual o número total de Inscritos?
-6. Qual a média por disciplina?
-7. Qual a média por Sexo?
-8. Qual a média por Etnia?
+![Dashboard sobre Microdados do ENEM 2022, imagem 1](https://imgur.com/iyiTOnP.png)
+![Dashboard sobre Microdados do ENEM 2022, imagem 2](https://imgur.com/57KIEb7.png)
+![Dashboard sobre Microdados do ENEM 2022, imagem 3](https://imgur.com/pR44QuX.png)
+![Dashboard sobre Microdados do ENEM 2022, imagem 4](https://imgur.com/VENt2Eq.png)
+![Dashboard sobre Microdados do ENEM 2022, imagem 4](https://imgur.com/kgyem39.png)
+
+## Como acessar o projeto?
+
+Clicando no link abaixo, você irá o dashboard, que foi publicado na internet através do Power BI Online:
+* [Dashboard Microdados ENEM 2022](https://imgur.com/kgyem39)
+
+## Tecnologias utilizadas
+* [Power BI](https://powerbi.microsoft.com/pt-br/): aplicativo gratuito para business intelligence (BI);
+* [Power Query](https://learn.microsoft.com/pt-br/power-query/power-query-what-is-power-query): ferramenta de preparação e transformação de dados;
+* [DAX](https://learn.microsoft.com/pt-br/dax/): linguagem de fórmulas do Power BI;  
+* [Canva](https://www.canva.com/pt_br/): plataforma online para criação de design e estilização de recursos visuais;
+* [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel): software de planilhas eletrônicas.
